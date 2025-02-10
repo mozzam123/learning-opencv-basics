@@ -1,4 +1,4 @@
-## Image Capture with OpenCV
+## Image Capture and Edge Detection with OpenCV
 
 ### This project allows users to capture images using a webcam, save them in color, and convert them to grayscale automatically. Additionally, it includes an edge detection feature using the Canny algorithm.
 
